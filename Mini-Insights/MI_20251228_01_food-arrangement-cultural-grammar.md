@@ -1,4 +1,5 @@
-# Mini-Insight — MI_20251228_01
+## Mini-Insight — MI_20251228_01
+**MI-Type:** MI-D (Discovery Insight)
 
 ## Title
 Food Arrangement as Cultural Pattern Grammar
