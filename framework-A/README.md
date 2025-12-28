@@ -3,6 +3,10 @@
 This framework presents a conceptual sequence that reinterprets *illusion*
 as a structural, generative, and human-centered phenomenon.
 
+If this is your first time here, you may want to start with the overview.
+
+- [How to Read This Conceptual Sequence](overview.md)
+
 The one-pages below are designed to be read in order.
 Each builds on the previous to form a coherent conceptual arc.
 
