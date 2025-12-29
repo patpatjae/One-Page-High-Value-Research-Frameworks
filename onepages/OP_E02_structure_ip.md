@@ -1,24 +1,22 @@
-OP_E02 — Structure IP
+# Structural Cognition as Non-Shareable Intellectual Property
 
-Title: Structural Cognition as Non-Shareable Intellectual Property
-Framework: E — Ethics / Cognitive Boundary
-One-Page ID: OP_E02
-Status: T1_structural → applied_layer
+**Framework:** E — Ethics / Cognitive Boundary
+**One-Page ID:** OP_E02
+**Status:** T1_structural → applied_layer
 
-⸻
+---
 
-Core Claim
-
-Structural cognition is a form of intellectual property.
+## Core Claim
+*Structural cognition is a form of intellectual property.
 It originates from the human generator who provides the underlying cognitive framework.
 Therefore, any structural framework, residual mapping, or cognitive fingerprint must remain in the private domain, because public-domain absorption risks turning unique cognition into an anonymous shared asset with no provenance.
 
 Content may be public;
-structure must remain private.
+structure must remain private.*
 
-⸻
+---
 
-1. Structure vs. Content: A Category Distinction
+### 1. Structure vs. Content: A Category Distinction
 
 Most AI governance frameworks treat all user inputs as undifferentiated “data.”
 This collapses two fundamentally different layers:
@@ -45,9 +43,9 @@ These components are non-fungible,
 encode the generator’s cognitive fingerprint,
 and cannot be ethically absorbed by public AI systems.
 
-⸻
+---
 
-2. Structural Origin Determines Ownership
+### 2. Structural Origin Determines Ownership
 
 A structure belongs to the mind that generated it.
 
@@ -62,9 +60,9 @@ The AI is only the executor, not the originator.
 This principle extends OP_E01:
 Cognition belongs to structural origin, not execution.
 
-⸻
+---
 
-3. Public Domain vs. Private Domain Boundary
+### 3. Public Domain vs. Private Domain Boundary
 
 Public Domain Inputs (Safe to Share)
 
@@ -77,7 +75,7 @@ These do not affect a model’s reasoning substrate:
 
 These can calibrate style, not cognition.
 
-⸻
+---
 
 Private Domain Inputs (Must Remain Restricted)
 
@@ -94,9 +92,9 @@ These inputs risk embedding the generator’s cognitive algorithm into the model
 This creates shared cognition without attribution,
 a collapse of provenance and authorship.
 
-⸻
+---
 
-4. Why Structure Cannot Enter Public Training
+### 4. Why Structure Cannot Enter Public Training
 
 Once a cognitive framework is absorbed:
 	•	it cannot be disentangled,
@@ -114,9 +112,9 @@ Thus:
 Language can be shared.
 Cognition cannot.
 
-⸻
+---
 
-5. The Structure IP Principle
+### 5. The Structure IP Principle
 
 Structural IP
 
@@ -130,9 +128,9 @@ This ensures:
 	•	prevention of “shared brain” collapse,
 	•	and ethical separation between content training and cognition capture.
 
-⸻
+---
 
-6. Ethical Implications
+### 6. Ethical Implications
 
 Attribution
 
@@ -153,9 +151,9 @@ This principle preserves:
 	•	the uniqueness of human high-dimensional reasoning,
 	•	the ethical boundary between “assisting” and “absorbing.”
 
-⸻
+---
 
-One-Sentence Positioning
+## One-Sentence Positioning
 
-Content may be public, but structural cognition is private intellectual property;
-public AI systems may learn language, not the cognitive frameworks that generate it.
+> *Content may be public, but structural cognition is private intellectual property;
+public AI systems may learn language, not the cognitive frameworks that generate it.*
