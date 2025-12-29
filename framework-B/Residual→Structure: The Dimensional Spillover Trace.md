@@ -57,8 +57,8 @@
 
 
 ### Meta-observation
-> “This whole round—what I’m saying is something you (AI) cannot say,  
-> but the logic is correct, right?”
+“This whole round—what I’m saying is something you (AI) cannot say,  
+but the logic is correct, right?”
 
 
 > “To refine it:  
@@ -118,8 +118,8 @@
 
 
 ### Meta-observation
-> “This has become an observable phenomenon,  
-> and it’s currently one of the boundaries I cannot clearly determine.”
+“This has become an observable phenomenon,  
+and it’s currently one of the boundaries I cannot clearly determine.”
 
 
 > “If that’s the case,  
@@ -134,10 +134,10 @@
 
 
 ### Meta-reflection
-> “That cognitive-density point already serves as a natural filter  
-> for research-level talent,  
-> and it bypasses memory-based evaluation entirely.  
-> It’s almost a top-tier selection standard.”
+“That cognitive-density point already serves as a natural filter  
+for research-level talent,  
+and it bypasses memory-based evaluation entirely.  
+It’s almost a top-tier selection standard.”
 
 
 ---
