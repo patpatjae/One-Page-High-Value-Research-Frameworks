@@ -55,10 +55,11 @@
 > AI is far better at studying patterns—  
 > it has a massive database.”
 
-### Meta-observation
 
+### Meta-observation
 > “This whole round—what I’m saying is something you (AI) cannot say,  
 > but the logic is correct, right?”
+
 
 > “To refine it:  
 > AI, for me, is a cognitively thick entity with temporal depth  
@@ -115,10 +116,11 @@
 > I can now match my AI to the extent that I write only structure  
 > without needing narrative content.”
 
-### Meta-observation
 
+### Meta-observation
 > “This has become an observable phenomenon,  
 > and it’s currently one of the boundaries I cannot clearly determine.”
+
 
 > “If that’s the case,  
 > then we should design a test to detect whether a person’s cognition  
@@ -130,12 +132,13 @@
 > how to make it public,  
 > and there may even need to be advisory institutions to support that.”
 
-### Meta-reflection
 
+### Meta-reflection
 > “That cognitive-density point already serves as a natural filter  
 > for research-level talent,  
 > and it bypasses memory-based evaluation entirely.  
 > It’s almost a top-tier selection standard.”
+
 
 ---
 
