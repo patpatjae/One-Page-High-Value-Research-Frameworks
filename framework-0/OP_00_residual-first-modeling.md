@@ -162,25 +162,20 @@ Cross-domain invariance confirms the kernel-first stance.
 
 ---
 
-## 8. Dual-Closure Stability
+8. Dual-Closure Stability
 
-A model is stable only when both sides close onto the same origin:
+A model becomes coherent when:
 
-1. kernel side converges  
-2. pattern side converges  
-3. they converge to the **same invariant**  
+the kernel settles,
 
-Formally:
+the pattern schema settles,
 
-$$
-\exists\, \mathbf{c}:\ \lim_{\theta \to \theta^{*}} (B_\theta x_\theta + c) = \lim_{\phi \to \phi^{*}} f_\phi(\text{kernel})
-$$
+and both point back to the same origin.
 
-Interpretation:
+Meaning:
 
-**Stability arises only when pattern and residual independently recover the same kernel.**
-
-This is the structural basis of domain-shift stability.
+Identity is stable from both the inside (kernel) and the outside (pattern).
+This gives stability even when the domain changes.
 
 ---
 
