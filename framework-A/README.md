@@ -15,20 +15,20 @@ If you’re new here, start with the Reading Guide below.
 ## 🔧 Reading Guide (Two Valid Paths)
 
 ### **1) Phenomenon → Mechanism** *(recommended)*  
-Read **A1–A4 → then A0**.  
+Read **A01–A04 → then A0**.  
 Good for readers who prefer to see the pattern first.
 
 Covers:  
 dimensional mismatch • framing overflow • creativity leakage • innovation seams • agency
 
 ### **2) Mechanism → Phenomenon**  
-Read **A0 → then A1–A4**.  
+Read **A0 → then A01–A04**.  
 Good for readers who prefer foundational mechanics.
 
 Covers:  
 pre-token tension • mapping before concepts • collapse • overflow
 
-**If unsure: start with A1.**  
+**If unsure: start with A01.**  
 Both paths converge to:  
 **tension → collapse → overflow → creativity → innovation → agency**
 
@@ -41,7 +41,7 @@ Both paths converge to:
 
 ## One-Pages (Core Sequence)
 
-- [A00 — Pre-Token Mapping Mechanism](onepages/A0_pre-token-mapping-mechanism.md)  
+- [A0 — Pre-Token Mapping Mechanism](onepages/A0_pre-token-mapping-mechanism.md)  
 - [A01 — Illusion as Structural Consequence](onepages/OP_A01_illusion-as-structural-consequence.md)  
 - [A02 — Illusion as Creativity Leakage](onepages/OP_A02_illusion-as-creativity-leakage.md)  
 - [A03 — Illusion as Innovation Engine](onepages/OP_A03_illusion-as-innovation-engine.md)  
