@@ -1,8 +1,9 @@
 # Two-Emergence Engine Model (TEEM)
 
 **Framework:** A — Generative Dynamics / Emergence  
-**One-Page ID:** OP_G03
-**Status:** T1_structural  
+**One-Page ID:** OP_G03  
+**Status:** T1_structural
+
 
 ---
 
