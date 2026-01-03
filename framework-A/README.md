@@ -50,8 +50,10 @@ Both paths converge to:
 ---
 
 ## Boundary Layer
-
-- [D01 — Pre-Validation Structure, Ownership & Illusion](framework-A-boundary_D01_prevalidation-structure.md)
+The Boundary Layer contains conceptual probes that sit at the edge of Framework-A.  
+These notes examine conditions where structure exists before validation, ownership, or collapse—  
+revealing how illusion behaves at the system’s outer boundary.
+- [Boundary Note D01 — Pre-Validation Structure, Ownership & Illusion](framework-A-boundary_D01_prevalidation-structure.md)
 
 Explores illusion *before collapse*: unvalidated structure, ownership, and stabilization.
 
