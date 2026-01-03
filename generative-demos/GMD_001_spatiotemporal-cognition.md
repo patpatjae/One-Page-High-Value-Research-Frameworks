@@ -1,4 +1,4 @@
-# 🌐 GENERATIVE MIND DEMONSTRATION — GMD_001
+# GENERATIVE MIND DEMONSTRATION — GMD_001
 
 ### *Spatiotemporal Cognition Test (patpatjae Edition)*
 
