@@ -73,9 +73,7 @@ Therefore, kernel-first modeling is structurally necessary.
 
 Define:
 
-$$
-Y_{(\mathbf{c})} = \{\, B\mathbf{x} + \mathbf{c} \mid B, \mathbf{x} \in \mathcal{D} \}
-$$
+𝐘₍𝐜₎ = { 𝐁𝐱 + 𝐜  |  𝐁, 𝐱 ∈ 𝐃 }
 
 Meaning:
 
