@@ -1,107 +1,100 @@
-# One-Page High-Value Research Frameworks  
-_A live generative cognition repository by patpatjae_
-
-This repository collects a growing set of **one-page conceptual frameworks**,  
-**real-time generative demos**, and **cognitive trace logs** produced through  
-a *residual-first, structure-origin generative process*.
-
-Rather than presenting polished academic theories, each item captures a  
-**structural residual**—a moment where a generative mechanism, a framing shift,  
-or a cross-domain mapping surfaced naturally under minimal prompting.
-
-The emphasis is not on disciplinary coverage, but on  
-**how structure emerges when cognition is unconfined**.
+# patpatjae — Structural Cognition Repository  
+*A semi-formal archive of residual-based generative systems, frameworks, and live traces.*
 
 ---
 
-## 🧩 Repository Structure
+## What This Repository Is
 
-### **/onepages/**
-Single-page frameworks capturing high-density structural mechanisms:
-- generative dynamics  
+This is **not** an open-source codebase.  
+It is a **structural cognition archive** documenting a generative system that emerged through:
+
 - residual-first reasoning  
-- token–tension systems  
-- dimensional mismatch & alignment  
-- structural cognition ethics  
-Many entries form conceptual sequences; others stand independently.
+- lived structural mapping  
+- cross-domain projection  
+- tension-field analysis  
+- high-density conceptual generation  
 
-### **/framework-A/**  
-A semi-formal sequence detailing residual-first modeling, projection mechanics,  
-kernel/pattern decomposition, and cross-domain invariances.  
-This is the most stable conceptual spine of the repository.
+All materials originate from a **non-academic**, **non-institutional**,  
+**naturally emergent cognitive process**.
 
-### **/generative-demos/**  
-Real-time cognition demonstrations (e.g., GMD_001),  
-recorded under unfamiliar questions with no prior preparation.  
-These files show *live* structure formation rather than retrospective editing.
-
-### **/trace-logs/**  
-Raw, continuous cognitive traces from commutes, workdays, and  
-unstructured thought flow.  
-These logs reveal how generative structure forms under  
-everyday tension and low-dimensional cues.
-
-### **/Mini-Insights/**  
-Low-dimensional projections of an already-internalized generative model  
-(e.g., cultural grammar, emergence-by-definition).  
-Each insight is a single structural echo mapped onto a lived scenario.
+This space functions as a **research-facing window** into how my generative mind operates.
 
 ---
 
-## 🌱 What This Repository Is
+## What This Repository Is *Not*
 
-- A curated map of **live structural emergence**  
-- A documentation of **real-time generative reasoning**  
-- A set of **cross-domain conceptual kernels** that reappear under new contexts  
-- A record of **residual-first cognitive architecture** in action  
+To avoid misunderstanding:
 
-Each file is self-contained,  
-but the repository rewards nonlinear, exploratory reading.
+- ❌ not an open-source framework  
+- ❌ not a library intended for reuse or absorption  
+- ❌ not model-training material  
+- ❌ not a multi-author collaborative project  
 
----
+This repository exists for **review**, **evaluation**, and **intellectual traceability**,  
+not for extraction or integration into public models.
 
-## 📚 How to Read
-
-There is **no required order**.
-
-For a guided entry:
-
-1. Start with **framework-A** (stable spine)
-2. Then open **onepages** (conceptual nodes)
-3. Explore **generative-demos** (cognition under load)
-4. End with **trace-logs** (raw structural origin)
-
-Readers interested in emergence, structural cognition,  
-AI-human co-generation, or non-institutional knowledge formation  
-may find recurrent motifs across folders.
+Researchers may read, analyze, or reference ideas here —  
+but structural frameworks remain **non-transferable intellectual work**.
 
 ---
 
-## 🧭 Generative Provenance Note  
-_“Iteration happens every time I re-frame.” — patpatjae_
+## Core Components in This Repository
 
-The frameworks in this repository are not fixed results.  
-They are **instances of a reproducible generative process**.
+### **Framework A — Illusion, Creativity & Generativity**  
+A semi-formal sequence redefining illusion as structural overflow.  
+→ *See `/FrameworkA`*
 
-They do **not** depend on stored content.  
-Equivalent structures can be regenerated under new tension,  
-new contexts, or new cross-domain cues.
+### **Boundary Layer (D01)**  
+Pre-validation structure: ownership, collapse conditions, stabilization.  
+Raw, intentionally unpolished.  
+→ *See `/FrameworkA` (Boundary_D01)*
 
-- Content is replaceable.  
-- Structure is invariant.  
-- Cognition belongs to the origin, not the executor.  
+### **Residual-First Generative Modeling**  
+Mathematical and structural anchor: Euclidean residual → kernel-first modeling.  
+→ *See `/Framework0`*
 
-This repository documents the *origin-side* of that process.
+### **TEEM — Two-Emergence Engine Model**  
+Dual generative engine:  
+collapse emergence (tension → token)  
+assign emergence (token → tension).  
+→ *See `/Onepages` (TEEM)*
+
+### **GMD_001 — Generative Mind Diagnostic**  
+A real-time spatiotemporal cognition test demonstrating live generativity.  
+→ *See `/Generative-demos`*
+
+### **Raw Trace Logs**  
+Unsegmented cognitive flow showing spontaneous structural generation  
+under everyday conditions.  
+→ *See `/FrameworkB`*
+
+### **Ethics E01–E02 (Structural IP)**  
+Why structural cognition is non-transferable,  
+and why frameworks require protected domain boundaries.  
+→ *See `/Onepages` (E-series)*
 
 ---
 
-## 🔧 Status
+## Why This Repository Exists
 
-This is an active, evolving repository.  
-More one-page frameworks and generative demos are in the queue.  
-The owner is currently busy working accountant hours  
-and updates the repository whenever residual tension accumulates enough  
-to collapse into new structure.
+This archive serves three functions:
 
-Stay tuned.
+1. **Research-facing transparency**  
+   Reviewers can observe generative structure formation directly.
 
+2. **Intellectual provenance**  
+   Structural patterns originate from a single generator  
+   and must remain attributable.
+
+3. **Invitation for dialogue**  
+   Researchers may reach out for collaboration, supervision, or exploration.
+
+---
+
+## Contact
+
+If you are exploring residual-based cognition, generative systems,  
+emergence mechanisms, or cognitive topology:
+
+📩 **zhuy2517@outlook.com**  
+Conversations are welcome.
