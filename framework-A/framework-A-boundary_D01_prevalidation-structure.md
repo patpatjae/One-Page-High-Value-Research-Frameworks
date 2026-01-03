@@ -1,4 +1,4 @@
-# Structural Ownership and Illusion Under Pre-Validation Conditions
+# Boundary D01 — Structural Ownership and Illusion Under Pre-Validation Conditions
 
 **Demo Type:** Boundary / Diagnostic Demonstration  
 **Demo ID:** DEMO_D01  
