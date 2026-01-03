@@ -41,7 +41,7 @@ Both paths converge to:
 
 ## One-Pages (Core Sequence)
 
-- [A00 — Pre-Token Mapping Mechanism](onepages/OP_A00_pre-token-mapping-mechanism.md)  
+- [A00 — Pre-Token Mapping Mechanism](onepages/A0_pre-token-mapping-mechanism.md)  
 - [A01 — Illusion as Structural Consequence](onepages/OP_A01_illusion-as-structural-consequence.md)  
 - [A02 — Illusion as Creativity Leakage](onepages/OP_A02_illusion-as-creativity-leakage.md)  
 - [A03 — Illusion as Innovation Engine](onepages/OP_A03_illusion-as-innovation-engine.md)  
