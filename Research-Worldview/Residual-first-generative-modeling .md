@@ -1,4 +1,5 @@
-# Residual-First Generative Modeling  
+# Residual-First Generative Modeling
+"how structure emerges."
 
 ---
 
@@ -26,7 +27,7 @@ The universal split encoded by Euclid:
 
 ---
 
-## 2. Dual Stability Structure
+## 2. Two-way Stability Structure
 
 ### Pattern-Stability (procedural)
 - arises from repeated operations  
