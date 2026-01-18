@@ -37,15 +37,11 @@ Together they form the basic pipeline I use for reading systems, debugging ideas
 
 You can start anywhere, but the natural flow is:
 
-1. [dual-relation incompleteness principle](./dual-relation-incompleteness-principle-%28DRIP%29.md)
+1. [dual-relation incompleteness principle](./dual-relation-incompleteness-principle%20(DRIP).md)
    (learn the emergence mechanism)  
-2. [residual-first generative modeling](./residual-first-generative-modeling-%28RFGM%29.md)
+2. [residual-first generative modeling](./residual-first-generative-modeling%20(RFGM).md)
    (learn how to detect ontological DOFs)
 
 After that, the rest of my frameworks plug in cleanly.
 
 ---
-1. [residual-first generative modeling](./residual-first-generative-modeling-%28RFGM%29.md)
-2. [dual-relation incompleteness principle](./dual-relation-incompleteness-principle-%28DRIP%29.md)
-3. [dual-relation incompleteness principle](./dual-relation-incompleteness-principle%20(DRIP).md)
-
