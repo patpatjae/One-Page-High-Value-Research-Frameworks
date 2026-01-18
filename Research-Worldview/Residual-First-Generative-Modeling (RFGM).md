@@ -1,4 +1,4 @@
-# Residual-First Generative Modeling
+# Residual-First Generative Modeling (RFGM)
 ### A kernel-origin framework for constructing cross-domain structure without inherited coupling
 
 ---
