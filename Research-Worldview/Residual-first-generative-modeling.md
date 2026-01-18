@@ -1,5 +1,5 @@
 # Residual-First Generative Modeling
-"how structure emerges."
+### how structure emerges.
 
 ---
 
