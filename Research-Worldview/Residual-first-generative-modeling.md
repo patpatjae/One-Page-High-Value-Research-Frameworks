@@ -163,7 +163,7 @@ Cross-domain invariance confirms the kernel-first stance.
 
 ---
 
-## 8. Dual-Closure Stability
+## 8. Two-way-Closure Stability
 
 A model becomes coherent when:
 
