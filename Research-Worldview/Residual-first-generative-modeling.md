@@ -1,5 +1,5 @@
 # Residual-First Generative Modeling
-### how structure emerges.
+### A kernel-origin framework for constructing cross-domain structure without inherited coupling
 
 ---
 
