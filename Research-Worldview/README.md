@@ -45,3 +45,5 @@ You can start anywhere, but the natural flow is:
 After that, the rest of my frameworks plug in cleanly.
 
 ---
+1. [residual-first generative modeling](./residual-first-generative-modeling-%28RFGM%29.md)
+2. [dual-relation incompleteness principle](./dual-relation-incompleteness-principle-%28DRIP%29.md)
